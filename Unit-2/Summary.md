@@ -7,7 +7,7 @@
 
 
 
-<h1>Lesson2:
+# Lesson2:
 
 * reviewed the Design Thinking Process and its use and significance in designing products for consumers.
 * reviewed the different parts of the Design Thinking Process.
