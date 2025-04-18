@@ -30,6 +30,9 @@
 ### Unit 4 - Styling with HTML
 
 1. Lesson 1 - HTML: Beyond the Basics
+2. Lesson 2 - HTML Lists
+3. Lesson 3 - Embedding Images: Relative & Absolute
+4. Lesson 4 - Accessibility in Web Design
 
 ### Unit 5 - Introduction to CSS
 
