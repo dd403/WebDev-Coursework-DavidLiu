@@ -36,14 +36,43 @@
 
 ### Unit 5 - Introduction to CSS
 
+1. Lesson 1 - What is CSS?
+2. Lesson 2 - Basic CSS properties: Color, font-size, font-family, background
+3. Lesson 3 - Inline, Internal and External CSS
+
 ### Unit 6 - Feedback and Iteration (Client)
+
+1. Lesson 1 - Feedback and Iteration
+2. Lesson 2 - Adding and Styling Links
+3. Lesson 3 - Polishing Your Web Page
+4. Lesson 4 - Gathering Feedback From a Client
 
 ### Unit 7 - Solve a Problem, Serve a Purpose
 
-<h3>Unit 8 - Advanced CSS and Responsive Web Design
+1. Lesson 1 - United Nations & Global Goals
+2. Lesson 2 - Apply Design Thinking
 
-<h3>Unit 9 - Introduction to JavaScript
+### Unit 8 - Advanced CSS and Responsive Web Design
 
-<h3>Unit 10 - Feedback and Iteration (Community Client)
+1. Lesson 1 - Style Using div and class
+2. Lesson 2 - The Box Model and Positioning
+3. Lesson 3 - The Display Property and Positioning
+4. Lesson 4 - Responsive vs. Adaptive Design
 
-<h3>Unit 11 - Recap, Reflect, and Next Steps
+### Unit 9 - Introduction to JavaScript
+
+1. Lesson 1 - What is JavaScript and why is it important in web design?
+2. Lesson 2 - Basics of JavaScript: Input and output
+3. Lesson 3 - JavaScript and HTML
+
+### Unit 10 - Feedback and Iteration (Community Client)
+
+1. Lesson 1 - Applying HTML, CSS, and JavaScript to craft a complete web page
+2. Lesson 2 - Implementing navigation
+3. Lesson 3 - Design Considerations and Best Practices
+
+### Unit 11 - Recap, Reflect, and Next Steps
+
+1. Lesson 1 - Course Summary
+2. Lesson 2 - Reflection
+3. Lesson 3 - Next Steps
