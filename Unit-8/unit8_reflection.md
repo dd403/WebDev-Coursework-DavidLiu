@@ -37,9 +37,3 @@
 
 `display: flex` 是一种强大的布局方式，用来 **在一行或一列中对多个元素进行排列** 。
 
-`display: grid;` 把这个 div 变成一个网格容器。
-
-`grid-template-columns: repeat(3, 1fr);` 网格分成 3 列，每列占 1 等分
-
-`grid-gap: 10px;` 网格之间的间距10px
-

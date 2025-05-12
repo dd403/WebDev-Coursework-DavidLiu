@@ -8,19 +8,15 @@
         .hidden {
             display: none;
         }
-        div {
-            color: red;
-            background-color: yellow;
-        }
     </style>
 </head>
 <body>
     <p class="hidden">This paragraph will not be displayed.</p>
     <button>Button 1</button> <button>Button 2</button> <button>Button 3</button>
 
-    <div>Block element 1</div>
-    <div>Block element 2</div>
-    <div>Block element 3</div>
+    <div style="color: red; background-color: yellow;">Block element 1</div>
+    <div style="color: red; background-color: yellow;">Block element 2</div>
+    <div style="color: red; background-color: yellow;">Block element 3</div>
 
     <div style="display: inline-block; width: 100px; height: 100px; background-color: red;"></div>
     <div style="display: inline-block; width: 100px; height: 150px; background-color: blue;"></div>
@@ -31,6 +27,15 @@
         <div>Item 1</div>
         <div>Item 2</div>
         <div>Item 3</div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+        <div style="background-color: lightblue;">1</div>
+        <div style="background-color: lightgreen;">2</div>
+        <div style="background-color: lightcoral;">3</div>
+        <div style="background-color: lightyellow;">4</div>
+        <div style="background-color: lightgrey;">5</div>
+        <div style="background-color: lightpink;">6</div>
     </div>
 </body>
 </html>
