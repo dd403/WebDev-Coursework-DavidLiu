@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Block elements</title>
+    <style>
+        .hidden {
+            display: none;
+        }
+        div {
+            color: red;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <p class="hidden">This paragraph will not be displayed.</p>
+    <button>Button 1</button> <button>Button 2</button> <button>Button 3</button>
+
+    <div>Block element 1</div>
+    <div>Block element 2</div>
+    <div>Block element 3</div>
+
+    <div style="display: inline-block; width: 100px; height: 100px; background-color: red;"></div>
+    <div style="display: inline-block; width: 100px; height: 150px; background-color: blue;"></div>
+    <div style="display: inline-block; width: 150px; height: 150px; background-color: green;"></div>
+    <div style="display: inline-block; width: 75px; height: 100px; background-color: purple;"></div>
+
+    <div style="display: flex; justify-content: space-around;">
+        <div>Item 1</div>
+        <div>Item 2</div>
+        <div>Item 3</div>
+    </div>
+</body>
+</html>
