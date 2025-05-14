@@ -1,0 +1,38 @@
+<head>
+    <style>
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .container {
+        width: 100%;
+    }
+        .column {
+        float: left;
+        width: 33.33%; /* 100% divided by 3 */
+    }
+    @media (max-width: 600px) {
+        body {
+            background-color: rgb(38, 88, 104);
+        }
+    }
+    @media (min-width: 601px) and (max-width: 1024px) {
+        body {
+            background-color: rgb(149, 171, 149);
+        }
+    }
+    @media (min-width: 1025px) {
+        body {
+            background-color: lightcoral;
+        }
+    }
+    </style>
+</head>
+<body>
+    <img src="VSCodeIcon.jpg" alt="the Visual Studio Code icon" />
+    <div class="container">
+        <div class="column">column 1</div>
+        <div class="column">column 2</div>
+        <div class="column"> column 3 </div>
+    </div>
+</body>
