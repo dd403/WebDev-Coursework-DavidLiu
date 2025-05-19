@@ -1,0 +1,68 @@
+a:link{
+    color:rgb(69, 17, 17);
+    background-color: transparent;
+    text-decoration: none;
+}
+h1{
+    color: red;
+    font-family: Tahoma;
+}
+p{
+    font-family: Arial;
+    color:brown
+}
+ul{
+    color: green;
+}
+dt{
+    font-family: 'Courier New';
+    font-size:20px;
+    color: blue;
+}
+dd{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color: purple;
+}
+img {
+border-width: 20px;
+border-style: dashed double;
+border-color: purple orange;
+border-radius: 25px 100px 25px 100px;
+width: 200px;
+height: 200px;
+}
+.bright{
+color: red;
+background-color: yellow;
+}
+
+.box{
+width: 200px;
+height: 20px;
+padding: 10px;
+border: 5px solid black;
+margin: 10px;
+}
+body {
+    background-color: rgb(149, 171, 149);
+}
+@media (max-width: 768px) {
+body {
+    background-color: rgb(209, 207, 179);
+}
+}
+@media (max-width: 480px) {
+body {
+    background-color: rgb(65, 63, 35);
+}
+}
+button {
+    background-color: lightblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
