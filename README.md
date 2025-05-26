@@ -10,7 +10,7 @@
 
 ### 🦍 [Unit 1 - The Web and Web Development](https://vscode.dev/edu?courseId=intro-to-web-dev&workspace-scheme=vscode-edu-workspace&profile=web-dark#account-id=c679d6cf-107b-4213-b496-2ade543629e1&select-course-node=intro-to-web-dev%3Aiwd-webdev)
 
-1. [Lesson 1](../WebDev-Coursework-DavidLiu/Unit-1/) - Brief History of the Web and Web Development
+1. [Lesson 1](../Unit-1/) - Brief History of the Web and Web Development
 2. [Lesson 2](../WebDev-Coursework-DavidLiu/Unit-1/) - Web Browsers, Websites and Developer Tools
 3. [Lesson 3](../WebDev-Coursework-DavidLiu/Unit-1/lesson-3/) - Basic HTML Structure and Tags
 4. [Lesson 4](../WebDev-Coursework-DavidLiu/Unit-1/lesson-4/)- Basic HTML Formatting Tags for Text
