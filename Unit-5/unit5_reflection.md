@@ -1,4 +1,4 @@
-In Unit 5, I learned about CSS and how it improves website design. I findjk that CSS helps style web pages by adding things like font size, font family, colors, and backgrounds. I practiced using CSS to size an image and applied this to my client’s web page, making it look better. I also learned the difference between inline, internal, and external CSS, and why a web designer might pick each one—inline for quick changes, internal for single pages, and external for multiple pages.
+In Unit 5, I learned about CSS and how it improves website design. I findjk that CSS helps style web pages by adding things like font size, font family, colors, and backgrounds. I practiced using CSS to size an image and applied this to my client’s web page, making it look better. I also learned the difference between inline, internal, and external CSS, and why a web designer might pick each one—inline for quick changes, internal for single pages and external for multiple pages.
 
 * CSS
   * `style="width:400px; height:600px; border:10px solid blue;"`
